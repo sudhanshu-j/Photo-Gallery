@@ -53,7 +53,7 @@ Photo-Gallery-Website/
 - To get started with this project, first clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Photo-Gallery-Website.git
+git clone https://github.com/sudhanshu-j/Photo-Gallery-Website.git
 ```
 
 2. **Open `index.html`**
